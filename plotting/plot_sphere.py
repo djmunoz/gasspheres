@@ -62,6 +62,7 @@ if __name__ == "__main__":
     Y03,Y13 = ax3.get_ylim()
     Z03,Z13 = ax3.get_zlim()
 
+
     # Arrows for coordinate triad
     arrow_begin,arrow_end = [0.7,-1.1,0.9],[0.95,-1.1,0.9]
     ax3.plot([arrow_begin[0],arrow_end[0]],[arrow_begin[1],arrow_end[1]],[arrow_begin[2],arrow_end[2]],
