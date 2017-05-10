@@ -7,7 +7,6 @@ from scipy.optimize import fsolve
 import matplotlib.cm as cm
 from mpl_toolkits.axes_grid import make_axes_locatable 
 import  matplotlib.axes as maxes
-import mercury 
 import sys
 from mpl_toolkits.basemap import Basemap
 from matplotlib.patches import FancyArrowPatch
